@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI ML GEN AI<br>👯 I’m looking to collaborate on ML GEN AI<br>🤝 I’m looking for help with CNN<br>🌱 I’m currently learning GEN AI , JAVA<br>💬 Ask me about ML<br>⚡ Fun fact<br><br>The "computer bug" was a real bug:<br>The term "computer bug" originated from an actual moth found stuck<br> inside a Harvard computer in 1947, causing a malfunction
+🔭 I’m currently working on GEN AI<br>👯 I’m looking to collaborate on ML GEN AI<br>🤝 I’m looking for help with DEPLOYMENT<br>🌱 I’m currently learning GEN AI , JAVA<br>💬 Ask me about ML<br>⚡ Fun fact<br><br>The "computer bug" was a real bug:<br>The term "computer bug" originated from an actual moth found stuck<br> inside a Harvard computer in 1947, causing a malfunction
 
 
 # 💻 Tech Stack:
@@ -14,5 +14,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mudassirl6&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mudassirl6&label=Profile%20Views&icon=3&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
